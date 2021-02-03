@@ -1,0 +1,10 @@
+{
+		"replace": false,
+		"values": [
+"#forge:flour_plants/potato",
+
+"#forge:flour_plants/wheat",
+
+"#forge:flour_plants/sunflowerseeds"
+	]
+}

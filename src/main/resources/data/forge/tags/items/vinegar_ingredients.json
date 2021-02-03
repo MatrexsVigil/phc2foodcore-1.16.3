@@ -1,0 +1,9 @@
+{
+		"replace": false,
+		"values": [
+"#forge:vinegar_ingredients/apple",
+"#forge:vinegar_ingredients/chorusfruit",
+"#forge:vinegar_ingredients/melon",
+"#forge:vinegar_ingredients/sweetberries"
+	]
+}
