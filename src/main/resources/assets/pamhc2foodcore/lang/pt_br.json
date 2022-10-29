@@ -1,0 +1,184 @@
+{
+	"itemGroup.pamhc2foodcore": "Pam's HarvestCraft 2 - Núcleo de comida",
+
+	
+	//tools
+"item.pamhc2foodcore.bakewareitem": "BakeWare",
+"item.pamhc2foodcore.cuttingboarditem": "Tábua de cortar",
+"item.pamhc2foodcore.juiceritem": "Espremedor",
+"item.pamhc2foodcore.grinderitem": "Moedora",
+"item.pamhc2foodcore.mixingbowlitem": "Tigela de mistura",
+"item.pamhc2foodcore.potitem": "Panela",
+"item.pamhc2foodcore.rolleritem": "Rolo",
+"item.pamhc2foodcore.saucepanitem": "Sauce Pan",
+"item.pamhc2foodcore.skilletitem": "Frigideira",
+
+//wheat
+"item.pamhc2foodcore.flouritem": "Farinha",
+"item.pamhc2foodcore.doughitem": "Massa",
+"item.pamhc2foodcore.toastitem": "Brinde",
+"item.pamhc2foodcore.grilledcheeseitem": "Queijo grelhado",
+"item.pamhc2foodcore.carrotbreaditem": "Pão de cenoura",
+"item.pamhc2foodcore.pumpkinbreaditem": "Pão de abóbora",
+"item.pamhc2foodcore.pastaitem": "Massa",
+"item.pamhc2foodcore.macncheeseitem": "macNCheese",
+"item.pamhc2foodcore.noodlesoupitem": "Sopa de macarrão",
+"item.pamhc2foodcore.applepieitem": "Torta de maçã",
+"item.pamhc2foodcore.sweetberrypieitem": "Torta de baga doce",
+"item.pamhc2foodcore.chocolatecupcakeitem": "Cupcake de chocolate",
+"item.pamhc2foodcore.carrotcupcakeitem": "Cupcake de cenoura",
+"item.pamhc2foodcore.pumpkincupcakeitem": "Pumpkin Cupcake",
+"item.pamhc2foodcore.caramelcupcakeitem": "Cupcake de caramelo",
+
+
+"item.pamhc2foodcore.batteritem": "Massa",
+"item.pamhc2foodcore.chocolatecakeitem": "Bolo de chocolate",
+"item.pamhc2foodcore.cheesecakeitem": "Bolo de queijo",
+"item.pamhc2foodcore.pumpkincheesecakeitem": "Bolo de queijo de abóbora",
+"item.pamhc2foodcore.carrotcakeitem": "Bolo de cenoura",
+"item.pamhc2foodcore.chocolatemuffinitem": "Muffin de chocolate",
+"item.pamhc2foodcore.carrotmuffinitem": "Muffin de cenoura",
+"item.pamhc2foodcore.pumpkinmuffinitem": "Muffin de abóbora",
+"item.pamhc2foodcore.caramelmuffinitem": "Muffin de caramelo",
+"item.pamhc2foodcore.donutitem": "Rosquinha",
+"item.pamhc2foodcore.chocolatedonutitem": "Donut de chocolate",
+"item.pamhc2foodcore.jellydonutitem": "jellyDonut",
+
+"item.pamhc2foodcore.crackeritem": "Biscoito",
+"item.pamhc2foodcore.softpretzelitem": "Pretzel suave",
+
+//milk
+"item.pamhc2foodcore.butteritem": "Manteiga",
+"item.pamhc2foodcore.cheeseitem": "Queijo",
+"item.pamhc2foodcore.creamitem": "Creme",
+"item.pamhc2foodcore.yogurtitem": "Iogurte",
+"item.pamhc2foodcore.chocolateyogurtitem": "Chocolate de iogurtet",
+"item.pamhc2foodcore.appleyogurtitem": "Apple iogurte",
+"item.pamhc2foodcore.sweetberryyogurtitem": "Sweet Berry iogurte",
+"item.pamhc2foodcore.pumpkinyogurtitem": "Iogurte de abóbora",
+"item.pamhc2foodcore.caramelyogurtitem": "Iogurte de caramelo",
+"item.pamhc2foodcore.icecreamitem": "Sorvete",
+"item.pamhc2foodcore.chocolateicecreamitem": "Sorvete de chocolate",
+"item.pamhc2foodcore.caramelicecreamitem": "Sorvete de caramelo",
+"item.pamhc2foodcore.cookiesandmilkitem": "Cookies and Milk",
+
+//cocoa
+"item.pamhc2foodcore.chocolatebaritem": "Barra de chocolate",
+"item.pamhc2foodcore.cocoapowderitem": "Cacau em pó",
+"item.pamhc2foodcore.hotchocolateitem": "Chocolate quente",
+"item.pamhc2foodcore.chocolatebaconitem": "Bacon de chocolate",
+"item.pamhc2foodcore.chocolatepuddingitem": "Pudim de chocolate",
+"item.pamhc2foodcore.chocolaterollitem": "Rolo de chocolate",
+"item.pamhc2foodcore.chocolatecaramelfudgeitem": "chocolateCaramelFudge",
+"item.pamhc2foodcore.smoresitem": "SMORES",
+"item.pamhc2foodcore.trailmixitem": "Mix de trilhas",
+
+//egg
+"item.pamhc2foodcore.mayonaiseitem": "maionese",
+"item.pamhc2foodcore.boiledeggitem": "Ovo cozido",
+"item.pamhc2foodcore.friedeggitem": "Ovo frito",
+"item.pamhc2foodcore.scrambledeggitem": "Ovo mexido",
+
+//apple
+"item.pamhc2foodcore.applejuiceitem": "Suco de maçã",
+"item.pamhc2foodcore.applesmoothieitem": "Smoothie da maçã",
+"item.pamhc2foodcore.applejellyitem": "Geléia de maçã",
+"item.pamhc2foodcore.applejellytoastitem": "Torrada de geléia de maçã",
+"item.pamhc2foodcore.applesauceitem": "Maçã",
+
+//melon
+"item.pamhc2foodcore.melonjuiceitem": "Suco de melão",
+"item.pamhc2foodcore.melonsmoothieitem": "melonSmoothie",
+"item.pamhc2foodcore.melonjellyitem": "Geléia de melão",
+"item.pamhc2foodcore.melonjellytoastitem": "Torrada de geléia de melão",
+
+//sweet berry
+"item.pamhc2foodcore.sweetberryjuiceitem": "Suco de baga doce",
+"item.pamhc2foodcore.sweetberrysmoothieitem": "Smoothie de Berry Sweet",
+"item.pamhc2foodcore.sweetberryjellyitem": "Geléia doce de baga",
+"item.pamhc2foodcore.sweetberryjellytoastitem": "Torrada doce da baga",
+
+//chicken
+"item.pamhc2foodcore.friedchickenitem": "Frango frito",
+"item.pamhc2foodcore.groundchickenitem": "Frango Moido",
+"item.pamhc2foodcore.chickennuggetitem": "Nugget de frango",
+"item.pamhc2foodcore.basicchickensandwichitem": "Sanduíche básico de frango",
+"item.pamhc2foodcore.chickenjerkyitem": "Frango espumoso",
+"item.pamhc2foodcore.chickenpotpieitem": "Empadão de frango",
+"item.pamhc2foodcore.chickendinneritem": "Jantar de frango",
+
+//beef
+"item.pamhc2foodcore.potroastitem": "Eu posso assar",
+"item.pamhc2foodcore.groundbeefitem": "Carne moída",
+"item.pamhc2foodcore.basichamburgeritem": "Hamburger básico",
+"item.pamhc2foodcore.basiccheeseburgeritem": "Cheeseburger básico",
+"item.pamhc2foodcore.baconcheeseburgeritem": "baconCheeseburger",
+"item.pamhc2foodcore.beefjerkyitem": "Carne seca",
+
+//pork
+"item.pamhc2foodcore.groundporkitem": "Carne de porco moída",
+"item.pamhc2foodcore.porkjerkyitem": "Porco Jerky",
+"item.pamhc2foodcore.hotdogitem": "Cachorro-quente",
+"item.pamhc2foodcore.baconandeggsitem": "Bacon e ovos",
+"item.pamhc2foodcore.epicbaconitem": "Bacon épico",
+
+//fish
+"item.pamhc2foodcore.groundfishitem": "Peixe moído",
+"item.pamhc2foodcore.fishsticksitem": "Palitos de peixe",
+"item.pamhc2foodcore.basicfishsandwichitem": "Sanduíche básico de peixe",
+"item.pamhc2foodcore.fishjerkyitem": "Fish Jerky",
+"item.pamhc2foodcore.fishandchipsitem": "Peixe e batata frita",
+
+//mutton
+"item.pamhc2foodcore.groundmuttonitem": "Carne de carneiro no solo",
+"item.pamhc2foodcore.muttonjerkyitem": "Carne de carneiro Jerky",
+
+//rabbit
+"item.pamhc2foodcore.groundrabbititem": "Coelho no solo",
+"item.pamhc2foodcore.rabbitjerkyitem": "Jerky de coelho",
+
+//potato
+"item.pamhc2foodcore.butteredbakedpotatoitem": "Batata assada com manteiga",
+"item.pamhc2foodcore.mashedpotatoesitem": "Purê de batata",
+"item.pamhc2foodcore.friesitem": "Fritas",
+"item.pamhc2foodcore.potatochipsitem": "Batata frita",
+"item.pamhc2foodcore.potatosoupitem": "Sopa de batata",
+
+//carrot
+"item.pamhc2foodcore.glazedcarrotsitem": "Cenouras envidraçadas",
+"item.pamhc2foodcore.carrotsoupitem": "Sopa de cenoura",
+
+//beet
+"item.pamhc2foodcore.pickledbeetsitem": "Beterraba em conserva",
+
+//pumpkin
+"item.pamhc2foodcore.pumpkinsoupitem": "Sopa de abóbora",
+
+//sugar
+"item.pamhc2foodcore.caramelitem": "Caramelo",
+"item.pamhc2foodcore.caramelappleitem": "Apple de caramelo",
+"item.pamhc2foodcore.marshmellowsitem": "marshmallows",
+"item.pamhc2foodcore.marshmellowchicksitem": "Marshmallow Chicks",
+"item.pamhc2foodcore.cottoncandyitem": "Algodão doce",
+"item.pamhc2foodcore.gummybearsitem": "Ursos gomosos",
+"item.pamhc2foodcore.jellybeansitem": "Jujubas",
+
+//misc
+"item.pamhc2foodcore.cookingoilitem": "Óleo de cozinha",
+"item.pamhc2foodcore.vinegaritem": "Vinagre",
+"item.pamhc2foodcore.freshwateritem": "Água fresca",
+"item.pamhc2foodcore.freshmilkitem": "Leite fresco",
+"item.pamhc2foodcore.saltitem": "Sal",
+"item.pamhc2foodcore.stockitem": "Ações",
+"item.pamhc2foodcore.sunflowerseedsitem": "Sementes de girassol",
+"item.pamhc2foodcore.roastedsunflowerseedsitem": "Semente de girassol assados",
+
+//generic food
+"item.pamhc2foodcore.fruitpunchitem": "Soco da fruta",
+"item.pamhc2foodcore.stewitem": "Ensopada",
+"item.pamhc2foodcore.bakedvegetablemedlyitem": "Medley de legumes assados",
+"item.pamhc2foodcore.fruitsaladitem": "Salada de frutas",
+"item.pamhc2foodcore.meatloafitem": "Rolo de carne",
+"item.pamhc2foodcore.p8juiceitem": "Suco p8",
+"item.pamhc2foodcore.fruitcrumbleitem": "Frutas desmoronando"
+}
